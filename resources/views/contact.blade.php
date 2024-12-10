@@ -60,7 +60,7 @@
           <h3>Social Profiles</h3>
           <div class="social-links">
             <a href="https://wa.me/6283811432036" class="twitter"><i class="bi bi-whatsapp" style="font-size: 30px;color:white"></i></a>
-            <a href="https://github.com/georizki" class="facebook"><i class="bi bi-github" style="font-size: 30px;color:white"></i></a>
+            <a href="https://github.com/georizkinugroho" class="facebook"><i class="bi bi-github" style="font-size: 30px;color:white"></i></a>
             <a href="https://www.instagram.com/elru_kamii/#" class="instagram"><i class="bi bi-instagram" style="font-size: 30px;color:white"></i></a>
             <a href="https://www.linkedin.com/in/GeoRizki/" class="linkedin"><i class="bi bi-linkedin" style="font-size: 30px;color:white"></i></a>
           </div>

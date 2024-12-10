@@ -56,27 +56,27 @@
 
           </div>
 
-          <h3 class="resume-title">Education</h3>
-          <div class="resume-item">
-            <h4>SDN 01 Ciburial</h4>
-            <h5>2012 - 2020</h5>
-          </div>
-          <br>
-          <div class="resume-item">
-            <h4>SMP Negeri 01 Cisarua</h4>
-            <h5>2020-2023</h5>
-          </div>
-          <br>
+
           <div class="resume-item">
             <h4>SMK Wikrama Bogor</h4>
             <h5>2023 - 2026</h5>
           </div>
-          </div><div class="col-lg-6">
-            <div class="con-certificate">
-                <img src="assets\img\sertifikat1.png" alt="" class="certificate">
-            <br>
-        <img src="assets\img\sertifikat2.png" alt="" class="certificate">
-    </div>
+          </div>
+          <div class="col-lg-6">
+            <h4>Certificate Award</h4>
+            <h5>Dicoding : Belajar Dasar Pemrograman Web <br>
+                Dicoding : Belajar Dasar Visualisasi Data <br>
+                Dicoding : Memulai Pemrograman Dengan Java <br>
+                Dicoding : Memulai Pemrograman Dengan C <br>
+                Microsoft : Konsep AI Dasar <br>
+                Dicoding : Belajar Dasar AWS Cloud <br>
+                Dicoding : Belajar Prinsip Pemrograman SOLID <br>
+                Dicoding : Belajar Membuat Aplikasi Back-End Untuk Pemula <br>
+                Dicoding : Belajar Dasar Pemrograman JavaScript <br>
+                Unity : Unity Essentials Pathway <br>
+                Dicoding : Belajar Dasar AI <br>
+                Dicoding : Belajar Dasar SQL <br>
+            </h5>
         </div>
 
 

@@ -49,7 +49,7 @@
         <img src="assets/img/me.png" class="img-fluid" alt="" style="opacity: 0.8">
       </div>
       <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-        <h3>Front End   &amp; Back End</h3>
+        <h3>Fullstack Web Developer</h3>
         <p class="fst-italic">
           Aku Geo Rizki Nugroho seorang pelajar di SMK Wikrama Bogor
         </p>
@@ -57,22 +57,21 @@
           <div class="col-lg-6">
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17 March 2008</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62-828-1143-2036</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Bogor, Indonesia</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>16</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Newbie</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Intermedite</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>georizkinugroho@smkwikrama.sch.id</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
         </div>
         <p>
-          Saya berasal dari jurusan PPLG <span style="color:#18d26e">(Pengembangan Perangkat Lunak dan Gim)</span> yang sedang menempuh jalan menjadi seorang programmer dan saya berkeiginan menjadi seorang Game Developer di masa mendatang.
+          Saya berasal dari jurusan PPLG <span style="color:#18d26e">(Pengembangan Perangkat Lunak dan Gim)</span> yang sedang menempuh jalan menjadi seorang programmer dan saya berkeinginan menjadi seorang Game Developer di masa mendatang.
         </p>
       </div>
     </div>
@@ -81,36 +80,23 @@
     <!-- ======= Counts ======= -->
     <div class="counts container">
 
-        <div class="row">
+        <div class="row d-flex justify-content-center">
 
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="0" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Happy Clients</p>
-            </div>
-          </div>
+
 
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="23" data-purecounter-duration="1" class="purecounter"></span>
               <p>Projects</p>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="0" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
-            </div>
-          </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="bi bi-award"></i>
-              <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
               <p>Awards</p>
             </div>
           </div>
@@ -131,46 +117,88 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">85%</i></span>
+              <span class="skill">HTML <i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">60%</i></span>
+              <span class="skill">CSS <i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">25%</i></span>
+              <span class="skill">JavaScript <i class="val"></i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">PHP<i class="val"></i></span>
+              <div class="progress-bar-wrap">
               </div>
             </div>
 
+
+
+            <div class="progress">
+              <span class="skill">LARAVEL <i class="val"></i></span>
+              <div class="progress-bar-wrap">
+              </div>
+            </div>
+            <div class="progress">
+                <span class="skill">NOTION <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
+
+              <div class="progress">
+                <span class="skill">FIGMA <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
           </div>
 
           <div class="col-lg-6">
 
-            <div class="progress">
-              <span class="skill">PHP<i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">20%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                <span class="skill">PHYTON <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
               </div>
-            </div>
 
+
+            <div class="progress">
+                <span class="skill">SQL <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
+
+
+            <div class="progress">
+                <span class="skill">UNITY <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
+
+
+            <div class="progress">
+                <span class="skill">C <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
+
+              <div class="progress">
+                <span class="skill">GITHUB <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
+              <div class="progress">
+                <span class="skill">TRELLO <i class="val"></i></span>
+                <div class="progress-bar-wrap">
+                </div>
+              </div>
           </div>
 
         </div>
